@@ -81,8 +81,8 @@ html, body * {
 .pegboard {
   background: rgb(206 206 206);
   display: grid;
-  grid-template-columns: repeat(10, 30px);
-  grid-template-rows: repeat(10, 30px);
+  grid-template-columns: repeat(5, 30px);
+  grid-template-rows: repeat(5, 30px);
 }
 
 .pegboard-container.color-mode .pegboard-square {
