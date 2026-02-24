@@ -128,13 +128,6 @@ html, body * {
   align-items: center;
 }
 
-.key-color-square.active {
-  border: 3px dotted black;
-}
-
-.key-symbol-square.active {
-  background: yellow;
-}
 #symbol-library.selecting > .symbol.selected:not(.active) {
   opacity: 0.2;
 }
@@ -246,10 +239,6 @@ html, body * {
 
 .print-container #symbol-library {
   visibility: hidden;
-}
-
-.print-container .key-symbol-square.active {
-  background: initial;
 }
 
 .print-container .color-mode .pegboard-key-container {
