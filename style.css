@@ -246,7 +246,7 @@ html, body * {
 }
 .print-container > .pegboard-container {
   zoom: 1.2;
-  margin: 200px 130px 0px 150px; 
+  margin: 200px 30px 0px 30px;
 }
 
 #download-link {
